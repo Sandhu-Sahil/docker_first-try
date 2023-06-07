@@ -1,4 +1,5 @@
 # commands
+Or use .yaml file directly
 
 ## create docker 
 network docker network create mongo-network
